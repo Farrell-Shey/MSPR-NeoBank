@@ -1,0 +1,35 @@
+{
+  "name": "MSPR-NeoBank",
+  "version": "1.0.0",
+  "description": "MSPR-NeoBank",
+  "main": "index.js",
+  "scripts": {
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "production": "mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farrell-Shey/MSPR-NeoBank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farrell-Shey/MSPR-NeoBank/issues"
+  },
+  "homepage": "https://github.com/Farrell-Shey/MSPR-NeoBank#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.9",
+    "postcss": "^8.1.14",
+    "resolve-url-loader": "^3.1.2",
+    "sass": "^1.32.2",
+    "sass-loader": "^8.0.2"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.6.0",
+    "bootstrap": "^5.0.0-beta1"
+  }
+}

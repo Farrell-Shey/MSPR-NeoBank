@@ -1,0 +1,13 @@
+{
+    "name": "decle/mspr-neo-bank",
+    "authors": [
+        {
+            "name": "Elliot",
+            "email": "elliot.decle@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "nesbot/carbon": "^2.43"
+    }
+}
